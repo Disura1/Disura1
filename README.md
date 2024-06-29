@@ -1,4 +1,4 @@
-<body bgcolor="black"> 
+<bgcolor="black"> 
 <h1 align="center">Hi 👋, I'm Disura Sandaruwan</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
@@ -35,4 +35,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disura1&" alt="disura1" /></p>
 
-</body>
