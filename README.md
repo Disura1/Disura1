@@ -1,3 +1,4 @@
+<body bgcolor="black"> 
 <h1 align="center">Hi 👋, I'm Disura Sandaruwan</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
@@ -33,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disura1&show_icons=true&locale=en" alt="disura1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disura1&" alt="disura1" /></p>
+
+</body>
