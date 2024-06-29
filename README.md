@@ -1,11 +1,11 @@
-<h1 color="blue" align="center">Hi 👋, I'm Disura Sandaruwan</h1>
-<h3 align="center" style="color: red;">A passionate Software Engineer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Disura Sandaruwan</h1>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=disura1&label=Profile%20views&color=0e75b6&style=flat" alt="disura1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=disura1" alt="disura1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=disura1" alt="disura1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@disurasand59623" target="blank"><img src="https://img.shields.io/twitter/follow/@disurasand59623?logo=twitter&style=for-the-badge" alt="@disurasand59623" /></a> </p>
+<p align="center"> <a href="https://twitter.com/@disurasand59623" target="blank"><img src="https://img.shields.io/twitter/follow/@disurasand59623?logo=twitter&style=for-the-badge" alt="@disurasand59623" /></a> </p>
 
 - 🔭 I’m currently working on **Library Management System**
 
