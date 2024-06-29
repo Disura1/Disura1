@@ -1,4 +1,4 @@
-<bgcolor="black"> 
+<style bgcolor="black"> 
 <h1 align="center">Hi 👋, I'm Disura Sandaruwan</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
